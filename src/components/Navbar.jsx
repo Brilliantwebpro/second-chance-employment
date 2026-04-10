@@ -38,9 +38,9 @@ const Navbar = () => {
           <a
             href="#"
             className="text-xl md:text-2xl font-bold bg-gradient-to-r from-primary-600 via-purple-600 to-accent-500 bg-clip-text text-transparent"
-            aria-label="NDIS Learning Hub"
+            aria-label="Second Chance Employment"
           >
-            NDIS Learning Hub
+            Second Chance Employment
           </a>
 
           <div className="hidden md:flex items-center gap-6 text-sm font-semibold text-gray-700">
