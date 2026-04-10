@@ -4,7 +4,7 @@ const Hero = () => {
       <div className="absolute inset-0 bg-gradient-to-r from-primary-600/10 via-accent-400/10 to-accent-orange-400/10" />
       <div className="absolute inset-0 bg-[url('/src/images/cropped-image-14.jpg')] bg-cover bg-center opacity-5 mix-blend-overlay" />
       <div className="relative z-10 max-w-4xl mx-auto space-y-8 animate-fade-slide-up [animation-delay:0.2s]">
-        <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-primary-600 via-purple-600 to-accent-500 bg-clip-text text-transparent mb-6 opacity-0 md:animate-fade-slide-up [animation-delay:0.3s]">
+        <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-primary-600 via-purple-600 to-accent-500 bg-clip-text text-transparent mb-6 opacity-0 animate-fade-slide-up [animation-delay:0.3s]">
           Building Skills for a Brighter Future
         </h1>
         <p className="text-xl md:text-2xl text-gray-700 max-w-2xl mx-auto leading-relaxed opacity-0 animate-fade-slide-up [animation-delay:0.5s]">
